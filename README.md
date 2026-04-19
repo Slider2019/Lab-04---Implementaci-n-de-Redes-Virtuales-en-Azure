@@ -11,6 +11,8 @@
 ![DNS](https://img.shields.io/badge/Feature-DNS%20Zones-brightgreen)
 ![NSG](https://img.shields.io/badge/Security-NSG%20%26%20ASG-critical)
 
+![Bannerlab](./images/FondoREADME.png)
+
 ## 📑 Índice
 
 1. [Descripción](#-descripción)  
