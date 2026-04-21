@@ -419,10 +419,6 @@ Este resultado nos proporciona una base sólida para continuar con escenarios m�
 
 ---
 
-Perfecto, Diego. Para que tu README quede completo y fiel al laboratorio, aquí tienes el apartado de **eliminación de recursos** en formato Markdown, con el mismo estilo inclusivo que venimos usando:
-
----
-
 ## 🗑️ Eliminación de recursos
 
 Al finalizar el laboratorio, eliminamos los recursos creados para liberar la suscripción y minimizar costos.  
